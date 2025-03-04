@@ -1,0 +1,32 @@
+<!--  La parte fija del fichero xml correspondiente a un rss  -->
+<rss version="2.0">
+    <channel>
+        <title>Papel y Tinta</title>
+        <link>Dirección web en la que se encuentre nuestro RSS</link>
+        <description>Eventos online, emeroteca, libros pdf y mas</description>
+        <language>es-ES</language>
+        <image>
+            <title>Tu Biblioteca Online</title>
+            <url>https://isaaclez.github.io/papelytinta.github.io/imagenes/logo.jpg</url>
+            <link>https://isaaclez.github.io/papelytinta.github.io</link>
+            <width>90</width>
+            <height>36</height>
+        </image>
+        <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
+        <item>
+            <title>Proximos eventos</title>
+            <link>https://isaaclez.github.io/papelytinta.github.io/index.html</link>
+            <description>Enterate de lo que esta por venir</description>
+        </item>
+        <item>
+            <title>Descrubre quieres somos</title>
+            <link>https://isaaclez.github.io/papelytinta.github.io/quienes-somos.html</link>
+            <description>Contenido de esta información</description>
+        </item>
+        <item>
+            <title>Estamos a un clic de ditancia</tittle>
+            <link>https://isaaclez.github.io/papelytinta.github.io/contacto.html</link>
+            <description>Envianos todas tus dudas</description>
+        </item>
+    </channel>
+</rss>
