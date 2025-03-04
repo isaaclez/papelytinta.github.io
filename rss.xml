@@ -21,7 +21,7 @@
             <description>Enterate de lo que esta por venir</description>
             <category>Biblioteca</category>
             <category>Eventos</category>
-            <author>Papel y Tinta</author>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/literatos.jpg" type="image/jpeg"/>
         </item>
         <item>
             <title><b>El libro que buscabas esta aqui</b></title>
@@ -29,21 +29,21 @@
             <description>Tenemos un aplio archivo con diferentes generos para todos los gustos</description>
             <category>Biblioteca</category>
             <category>Libros</category>
-            <author>Papel y Tinta</author>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/libros.jpg" type="image/jpeg"/>
         </item>
         <item>
             <title><b>Descrubre quieres somos</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/quienes-somos.html</link>
             <description>Contenido de esta información</description>
             <category>Biblioteca</category>
-            <author>Papel y Tinta</author>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/nosotros.jpg" type="image/jpeg"/>
         </item>
         <item>
             <title><b>Estamos a un clic de ditancia</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/contacto.html</link>
             <description>Envianos todas tus dudas</description>
             <category>Biblioteca</category>
-            <author>Papel y Tinta</author>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/contactanos.jpg" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
