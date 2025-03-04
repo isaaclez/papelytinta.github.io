@@ -11,8 +11,8 @@
             <title>Tu Biblioteca Online</title>
             <url>https://isaaclez.github.io/papelytinta.github.io/imagenes/libro.png</url>
             <link>https://isaaclez.github.io/papelytinta.github.io</link>
-            <width>144</width>
-            <height>144</height>
+            <width>90</width>
+            <height>36</height>
         </image>
         <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
         <item>
