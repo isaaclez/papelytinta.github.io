@@ -8,9 +8,9 @@
         <category>Biblioteca</category>
         <category>Libros</category>
         <image>
-            <title>Tu Biblioteca Online</title>
+            <title>Papel y Tinta</title>
             <url>https://isaaclez.github.io/papelytinta.github.io/imagenes/libro.png</url>
-            <link>https://isaaclez.github.io/papelytinta.github.io</link>
+            <link>https://isaaclez.github.io/papelytinta.github.io/</link>
             <width>90</width>
             <height>36</height>
         </image>
@@ -18,7 +18,7 @@
         <item>
             <title>Proximos eventos</title>
             <link>https://isaaclez.github.io/papelytinta.github.io/index.html</link>
-            <description><p>Enterate de lo que está por venir en nuestra biblioteca virtual.</p></description>
+            <description>Enterate de lo que está por venir en nuestra biblioteca virtual.</description>
             <category>Biblioteca</category>
             <category>Eventos</category>
         
@@ -29,21 +29,21 @@
             <description>Tenemos un aplio archivo con diferentes generos para todos los gustos</description>
             <category>Biblioteca</category>
             <category>Libros</category>
-            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/libros.jpg" type="image/jpg"/>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/libros.jpg" type="image/jpg" length="82739,2"/>
         </item>
         <item>
             <title>Descrubre quieres somos</title>
             <link>https://isaaclez.github.io/papelytinta.github.io/quienes-somos.html</link>
             <description>Conoce las manos que dieron forma a este espacio</description>
             <category>Biblioteca</category>
-            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/nosotros.jpg" type="image/jpg"/>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/nosotros.jpg" type="image/jpg" length="329728"/>
         </item>
         <item>
-            <title><b>Estamos a un clic de ditancia</b></title>
+            <title>Estamos a un clic de ditancia</title>
             <link>https://isaaclez.github.io/papelytinta.github.io/contacto.html</link>
             <description>Envianos todas tus dudas</description>
             <category>Biblioteca</category>
-            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/contactanos.jpg" type="image/jpg"/>
+            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/contactanos.jpg" type="image/jpg" length="79564,8"/>
         </item>
     </channel>
 </rss>
