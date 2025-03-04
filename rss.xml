@@ -2,36 +2,48 @@
 <rss version="2.0">
     <channel>
         <title>Papel y Tinta</title>
-        <link>https://isaaclez.github.io/papelytinta.github.io/index.html</link>
-        <description>Eventos online, emeroteca, libros pdf y mas</description>
+        <link>https://isaaclez.github.io/papelytinta.github.io/</link>
+        <description><i>Eventos online, emeroteca, libros pdf y mas</i></description>
         <language>es-ES</language>
+        <category>Biblioteca</category>
+        <category>Libros</category>
         <image>
             <title>Tu Biblioteca Online</title>
             <url>https://isaaclez.github.io/papelytinta.github.io/imagenes/logo.jpg</url>
             <link>https://isaaclez.github.io/papelytinta.github.io</link>
-            <width>90</width>
-            <height>36</height>
+            <width>144</width>
+            <height>144</height>
         </image>
         <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
         <item>
-            <title>Proximos eventos</title>
+            <title><b>Proximos eventos</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/index.html</link>
             <description>Enterate de lo que esta por venir</description>
+            <category>Biblioteca</category>
+            <category>Eventos</category>
+            <author>Papel y Tinta</author>
         </item>
         <item>
-            <title>El libro que buscabas esta aqui</title>
+            <title><b>El libro que buscabas esta aqui</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/catalogo.html</link>
-            <description>Enterate de lo que esta por venir</description>
+            <description>Tenemos un aplio archivo con diferentes generos para todos los gustos</description>
+            <category>Biblioteca</category>
+            <category>Libros</category>
+            <author>Papel y Tinta</author>
         </item>
         <item>
-            <title>Descrubre quieres somos</title>
+            <title><b>Descrubre quieres somos</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/quienes-somos.html</link>
             <description>Contenido de esta información</description>
+            <category>Biblioteca</category>
+            <author>Papel y Tinta</author>
         </item>
         <item>
-            <title>Estamos a un clic de ditancia</title>
+            <title><b>Estamos a un clic de ditancia</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/contacto.html</link>
             <description>Envianos todas tus dudas</description>
+            <category>Biblioteca</category>
+            <author>Papel y Tinta</author>
         </item>
     </channel>
 </rss>
