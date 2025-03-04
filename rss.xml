@@ -18,14 +18,7 @@
         <item>
             <title><b>Proximos eventos</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/index.html</link>
-            <description>
-                <![CDATA[
-                <h1>Próximos eventos</h1>
-                <p>Enterate de lo que está por venir en nuestra biblioteca virtual.</p>
-                <img src="https://isaaclez.github.io/papelytinta.github.io/imagenes/eventos.jpg" alt="Eventos" />
-                <p>No te pierdas nuestras actividades especiales.</p>
-                ]]>
-            </description>
+            <description><p>Enterate de lo que está por venir en nuestra biblioteca virtual.</p></description>
             <category>Biblioteca</category>
             <category>Eventos</category>
         
