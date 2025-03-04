@@ -18,10 +18,17 @@
         <item>
             <title><b>Proximos eventos</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/index.html</link>
-            <description>Enterate de lo que esta por venir</description>
+            <description>
+                <![CDATA[
+                <h1>Próximos eventos</h1>
+                <p>Enterate de lo que está por venir en nuestra biblioteca virtual.</p>
+                <img src="https://isaaclez.github.io/papelytinta.github.io/imagenes/eventos.jpg" alt="Eventos" />
+                <p>No te pierdas nuestras actividades especiales.</p>
+                ]]>
+            </description>
             <category>Biblioteca</category>
             <category>Eventos</category>
-            <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/literatos.jpg" type="image/jpeg"/>
+        
         </item>
         <item>
             <title><b>El libro que buscabas esta aqui</b></title>
@@ -34,7 +41,7 @@
         <item>
             <title><b>Descrubre quieres somos</b></title>
             <link>https://isaaclez.github.io/papelytinta.github.io/quienes-somos.html</link>
-            <description>Contenido de esta información</description>
+            <description>Conoce las manos que dieron forma a este espacio</description>
             <category>Biblioteca</category>
             <enclosure url="https://isaaclez.github.io/papelytinta.github.io/imagenes/nosotros.jpg" type="image/jpeg"/>
         </item>
