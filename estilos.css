@@ -70,12 +70,12 @@ header{
     padding: 0;
     margin: 0;
     line-height: 0.8;
-    display: inline-block; /* el elemento solo ocupa el espacio contenido*/
+    display: inline-block; 
     font-size: 150px;    
 }
 .oferta{
     margin: 50px;
-    display: inline-block; /* el elemento solo ocupa el espacio contenido*/
+    display: inline-block; 
 }
 .cont-texto{
     text-align: left;
@@ -273,7 +273,7 @@ footer p {
     list-style: none;  
     padding: 0;
     display: flex;
-    justify-content: center;  /* Centra los enlaces horizontalmente */
+    justify-content: center;
     gap: 180px;
     margin: 0;
 }
