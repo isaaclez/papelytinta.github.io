@@ -1,7 +1,7 @@
 body{
     background-color: rgb(216, 190, 118);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    -webkit-font-smoothing: antialiased; /* forzamos el suavizado de fuentes */
+    -webkit-font-smoothing: antialiased; 
     color: aliceblue;
     padding: 0;
     margin: 90px;
@@ -17,7 +17,7 @@ header{
     background-color: rgb(216, 190, 118);
     box-shadow: 0 2px 4px rgb(0,0,0, 0.1);
     z-index: 1000;
-    position:fixed; /* mantiene la barra fija */
+    position:fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -236,7 +236,7 @@ form{
 }
 
 .lineas textarea {
-    resize: vertical; /* Permite redimensionar verticalmente */
+    resize: vertical;
 }
   
 button {
